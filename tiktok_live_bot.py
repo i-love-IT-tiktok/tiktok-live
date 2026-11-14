@@ -10,7 +10,7 @@ from TikTokLive import TikTokLiveClient
 from TikTokLive.events import ConnectEvent, DisconnectEvent
 
 # ─── CONFIG — fill these ────────────────────────────────────────────────────
-TIKTOK_USERNAME   = "@your_target_username"   # FILL: live host's @
+TIKTOK_USERNAME   = "@hakohitori"   # FILL: live host's @
 PROXY_LIST        = [                          # FILL: http://user:pass@host:port
     # "http://proxy1:port",
     # "http://proxy2:port",
